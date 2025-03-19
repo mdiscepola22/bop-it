@@ -1,6 +1,9 @@
 /*
   Three Blink
   By Matthew Discepola
+
+And will carr
+  
   Based on code from:
 
   Blink
